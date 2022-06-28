@@ -1,0 +1,5 @@
+extenciones
+
+npm install nodemon : escucha constatemente cambios 
+npm install uniqid : para crear id random
+npm install axios 
