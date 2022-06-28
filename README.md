@@ -11,6 +11,8 @@ Open [http://localhost:5000](http://localhost:5000) to view it in your terminal.
 
 ### `extenciones`
 
--npm install nodemon : escucha constatemente cambios 
--npm install uniqid : para crear id random
--npm install axios
+- npm install nodemon
+- npm install uniqid 
+- npm install axios
+- npm i bootstrap
+- npm install react-router-dom@6
