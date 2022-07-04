@@ -1,13 +1,13 @@
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[http://localhost:3000](http://localhost:3000) 
 
 ###`nodemon server.js`
 
 runs the back-end
 
-Open [http://localhost:5000](http://localhost:5000) to view it in your terminal.
+[http://localhost:5000](http://localhost:5000)
 
 ### `extenciones`
 
